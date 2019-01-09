@@ -1,0 +1,8 @@
+D:\ImageTransformation-Intern\source\AusNet_Tools\obj\Debug\ImageTrnaslate.csprojResolveAssemblyReference.cache
+D:\ImageTransformation-Intern\source\AusNet_Tools\obj\Debug\ImageTranslat.FrmImageTranslate.resources
+D:\ImageTransformation-Intern\source\AusNet_Tools\obj\Debug\ImageTranslat.Properties.Resources.resources
+D:\ImageTransformation-Intern\source\AusNet_Tools\obj\Debug\ImageTrnaslate.csproj.GenerateResource.Cache
+D:\ImageTransformation-Intern\source\AusNet_Tools\bin\Debug\ImageTrnaslate.exe
+D:\ImageTransformation-Intern\source\AusNet_Tools\bin\Debug\ImageTrnaslate.pdb
+D:\ImageTransformation-Intern\source\AusNet_Tools\obj\Debug\ImageTrnaslate.exe
+D:\ImageTransformation-Intern\source\AusNet_Tools\obj\Debug\ImageTrnaslate.pdb
